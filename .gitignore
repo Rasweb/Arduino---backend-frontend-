@@ -1,0 +1,11 @@
+server/node_modules
+arduino/arduino_secrets.h
+server/dist
+.env
+server/drizzle/relations.ts
+server/drizzle/schema.ts
+
+*.exe
+arduino/csv_parser_test.exe
+
+.vscode
